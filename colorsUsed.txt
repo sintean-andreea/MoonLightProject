@@ -1,0 +1,7 @@
+Colors
+- #6A624E // Very dark grayish orange.
+- #060606 // Very dark gray (mostly black)
+- #37311F // Very dark desaturated yellow.
+- #E5C367 // Soft orange
+- #CFA229 // Strong orange
+- #F7B609 // buttercup
