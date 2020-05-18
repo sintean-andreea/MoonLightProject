@@ -312,7 +312,7 @@ nav .container-mobile {
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url('img/cover-albums.jpg');
+  background-image: url('../img/cover-albums.jpg');
   background-size: cover;
   background-position: center top;
   opacity: 0.3;
@@ -479,7 +479,7 @@ nav .container-mobile {
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url('img/blog1-cover.jpg');
+  background-image: url('../img/blog1-cover.jpg');
   background-size: cover;
   background-position: center top;
   opacity: 0.3;
@@ -597,7 +597,7 @@ nav .container-mobile {
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url('img/contact-cover.jpg');
+  background-image: url('../img/contact-cover.jpg');
   background-size: cover;
   background-position: center top;
   opacity: 0.8;
